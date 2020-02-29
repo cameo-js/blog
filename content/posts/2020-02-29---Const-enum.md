@@ -1,16 +1,16 @@
 ---
-title: Humane Typography in the Digital Age
-date: "2017-08-19T22:40:32.169Z"
+title: const enum
+date: "2020-02-29T22:40:32.169Z"
 template: "post"
-draft: true
-slug: "humane-typography-in-the-digital-age"
-category: "Typography"
+draft: false
+slug: "const-enum"
+category: "Typescript"
 tags:
-  - "Design"
-  - "Typography"
-  - "Web Development"
-description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
-socialImage: "/media/42-line-bible.jpg"
+  - "Typescript"
+  - "Enum"
+  - "Performance"
+description: "const"
+# socialImage: "/media/42-line-bible.jpg"
 ---
 
 - [The first transition](#the-first-transition)
